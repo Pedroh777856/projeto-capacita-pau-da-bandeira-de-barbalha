@@ -31,7 +31,36 @@
 
 
 
-/* Galeria de Fotos e formulario -> Victor */
+/* Galeria de Fotos -> Daniel */
+#galeria {
+  background-color: #f7eee2;
+  padding: 2rem 2rem;
+}
+
+#galeria h2 {
+  color: var(--orange-color);
+  margin-bottom: 1rem;
+}
+
+#galeria p {
+  margin-bottom: 2rem;
+}
+
+#galeria .images-galerry {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+
+#galeria .images-galerry img{
+    box-shadow: 6px 10px 10px #fe930751;
+    border: 10px solid var(--red-color);
+    border-radius: 10px;
+}
+
+
+/* formulario -> Victor */
 
 
 
