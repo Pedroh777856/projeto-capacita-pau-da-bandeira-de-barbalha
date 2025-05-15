@@ -58,6 +58,60 @@
     border: 10px solid var(--red-color);
     border-radius: 10px;
 }
+header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: var(--main-color);
+  padding: 5px 25px;
+}
+header h3{
+  color: var(--ligth-color);
+  display: flex;
+}
+.menu ul{
+  color: #e4380e;
+  display: flex;
+  gap: 16px;
+  padding: 15px 25px;
+}
+.menu a{
+  color: var(--ligth-color);
+  text-decoration: none;
+font: bolder;
+display: flex;
+}
+
+.banner{
+background-image: url(../assets/banner.webp);
+background-size: cover;
+padding: 15px;
+min-height: 15rem;
+}
+
+.banner h1{
+  padding-top: 3rem;
+  color: var(--main-color);
+  padding-top: 1rem;   
+
+}
+.banner a{
+  background-color: var(--main-color);
+  text-decoration: none;
+  border-radius: 0.5rem;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  padding-block: 0.2rem;
+  color: var(--ligth-color);
+}
+.banner p{
+  color: var(--ligth-color);
+  font: bolder;
+}
+.banner p{
+  padding: 0.3rem;
+  padding-block: 0.5rem;
+}
 
 
 /* formulario -> Victor */
