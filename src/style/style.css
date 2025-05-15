@@ -83,7 +83,7 @@ header h3{
 }
 
 .banner{
-background-image: url(../assets/banner.webp);
+ background-image: url(../assets/banner.webp);
  background-size: cover;
  padding: 15px;
  min-height: 15rem;
@@ -112,8 +112,6 @@ background-image: url(../assets/banner.webp);
   padding: 0.3rem;
   padding-block: 0.5rem;
 }
-
-
 /* formulario -> Victor */
 
 
