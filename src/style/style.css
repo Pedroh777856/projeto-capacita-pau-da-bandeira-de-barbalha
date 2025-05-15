@@ -78,15 +78,15 @@ header h3{
 .menu a{
   color: var(--ligth-color);
   text-decoration: none;
-font: bolder;
-display: flex;
+ font: bolder;
+ display: flex;
 }
 
 .banner{
 background-image: url(../assets/banner.webp);
-background-size: cover;
-padding: 15px;
-min-height: 15rem;
+ background-size: cover;
+ padding: 15px;
+ min-height: 15rem;
 }
 
 .banner h1{
